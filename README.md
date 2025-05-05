@@ -2,7 +2,7 @@
 
 🚀 **Cloud Infrastructure Specialist** | **AI/ML Enthusiast** | **Network & DevOps Engineer**  
 
-📍 **Belfast, UK** | 📧 **vincent.umehj@gmail.com** | 📞 **+447493780750**  
+📍 **Belfast, UK** | 📧 **vincent.umehj@gmail.com** |  
 
 🔗 **[LinkedIn](#)** | 🏆 **AWS Certified Solutions Architect** | 🐍 **Python/Terraform Expert**  
 
