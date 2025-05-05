@@ -71,7 +71,7 @@ Passionate about **scalable, secure, and cost-efficient cloud solutions** that d
 
 ## **📌 How to Reach Me**  
 - **Email**: [vincent.umehj@gmail.com](mailto:vincent.umehj@gmail.com)  
-- **LinkedIn**: **[Your LinkedIn Profile](#)**  
+- **LinkedIn**:  
 - **GitHub**: **[github.com/yourusername](#)**  
 
 ---
